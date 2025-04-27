@@ -13,8 +13,8 @@ The project was done as part of my Machine Learning Internship at **Cognizify Te
 - **Feature Importance Analysis**: Votes were found to be the most influential feature affecting ratings.
 
 ## Files Included 
-- 'Maincode.py' - Code used to build the model
-- `Restaurant_Ratings_Prediction_Report.docx' - Project Report
+- 'MainCode.py' - Code used to build the model
+- `Restaurant_Ratings_Prediction_Report.pdf' - Project Report
 - `Dataset.csv' - Dataset used
 
 ## How to Run
