@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/Restaurant_Rating_Project_Banner.png" alt="Restaurant Rating Prediction Project" width="800">
+</p>
+
 # Restaurant Rating Prediction - Machine Learning Project
 
 This project predicts the **Aggregate Rating** of restaurants based on various features like Cuisines, City, Price Range, Delivery Options, and Votes.  
